@@ -1,7 +1,7 @@
 P2PChat
 =======
 
-A simple P2P chat written in Golang. 
+A simple P2P chat written in Golang with a simple qml graphical interface. 
 
 2 command line arguments must be passed in when running the program: 
 -IP of the machine to connect to
